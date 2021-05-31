@@ -13,7 +13,7 @@
     "exploration": {
         "method": "EpsilonGreedy",
         "tau": 6000,
-        "temperature": 0.1,
+        "temperature": 0.2,
         "final_temperature": 0.05
     },
     "loss_function": "l2"
